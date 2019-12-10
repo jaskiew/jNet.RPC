@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("jNet.RPC")]
 [assembly: AssemblyDescription("JSON .Net RPC library")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Jerzy Jaśkiewicz")]
 [assembly: AssemblyProduct("jNet.RPC")]
 [assembly: AssemblyCopyright("2019")]
 [assembly: AssemblyTrademark("")]
